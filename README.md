@@ -6,8 +6,8 @@
 
 ### 🕹️ Primary Game Engines
 
-- _Dev Environments:_ ![Unity](https://img.shields.io/badge/Unity-6.3+-black?logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.6+-0E1128?logo=unreal-engine&logoColor=white)
-
+- _Dev Environments:_ ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.6+-0E1128?logo=unreal-engine&logoColor=white)
+ ![Unity](https://img.shields.io/badge/Unity-6.3+-black?logo=unity&logoColor=white)
 ### 🎨 Core DCCs & Surfacing
 
 - _Modeling/Sculpt:_ ![ZBrush](https://img.shields.io/badge/ZBrush-2026-black?logo=pixologic&logoColor=white) ![Maya](https://img.shields.io/badge/Autodesk%20Maya-2026-blue?logo=autodesk-maya&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-5.x-orange?logo=blender&logoColor=white)
